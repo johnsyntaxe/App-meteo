@@ -1,0 +1,11 @@
+export const CITY_NOT_FOUND_START = 'La ville de ';
+export const CONNEXION_TYPE = 'Type de reséau';
+export const PLAHOLDER_TEXT_INPUT = 'Entrez votre recherche ici';
+export const EMPTY_FIELD = 'Le champs de recherche est vide';
+export const API_KEY = '&appid=099116c432bdacf71b11c54008828527';
+export const FAIL_ERROR = 'Les caractères spéciaux ne sont pas autorisés';
+export const ROUTE = 'https://api.openweathermap.org/data/2.5/weather?q=';
+export const ROUTE_ICON = 'http://openweathermap.org/img/wn/';
+export const ROUTE_PREVENT = 'https://api.openweathermap.org/data/2.5/onecall?lat=';
+export const NOT_CONNEXION = "Vous ne réseau internet ne dispose pas de donnée ou il est réseaux est instable.";
+export const CITY_NOT_FOUND_END = " n'a pas été trouvé. Essayez d'entre le nom dans la langue de la ville.";
